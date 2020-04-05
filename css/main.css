@@ -1,0 +1,334 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0;
+
+	width: 100%;
+	max-width: 16000px;
+
+	font-size: 15px;
+	line-height: 1.6;
+	
+}
+
+.logo {
+	width: 50px;
+	height: 50px;
+}
+
+
+
+.nav{
+	
+	
+	display: inline-block;
+	
+	text-transform: uppercase;
+	font-size: 13px;
+	margin: 0 auto;
+	padding-top: 30px;
+
+}
+.nav-link {
+	text-decoration: none;
+	color: #4d4959;
+	margin-right: 40px
+}
+
+
+.container {
+		width: 100%;
+	height: 100vh;
+
+	background: url("../images/intro.jpg") center no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	max-width: 16000px;
+	
+	
+
+}
+.header {
+	width: 100%;
+	
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+	position: absolute;
+}
+
+.header-inner {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+
+
+.Bike-info{
+	margin-top: 650px;
+	display: inline-block;
+
+
+}
+
+.photo {
+	margin-left: 655px;
+	margin-top: -14px;
+}
+
+h1 {
+	margin-left: 524px;
+	margin-top: 25px;
+	font-size: 16px;
+}
+
+.text {
+	font-size: 13px;
+	color: #848789;
+	max-width: 900px;
+	text-align: center;
+	margin-left: 200px;
+}
+
+.intro {
+	
+	margin-top:0;
+	padding-top: 50px;
+
+	
+}
+
+.photo4 {
+	width: 830px;
+	height: 400px;
+}
+
+.photo5 {
+	width: 511px;
+	height: 150px;
+}
+
+.photo6 {
+	display: block;
+	margin-top: -398px;
+	margin-left: 1100px;
+	width: 45px;
+	height: 24px;
+}
+
+h2 {
+	display: block;
+	margin-left: 1035px;
+	margin-top: 5px;
+}
+
+.text1 {
+	width: 254px;
+	height: 100px;
+	margin-left: 1000px;
+	font-size: 13px;
+	text-align: center;
+	color: #848789;
+}
+.photo7 {
+	display: inline-block;
+	margin-top: 208px;
+	margin-left: 225px;
+	width: 45px;
+	height: 24px;
+}
+
+.photo8 {
+	display: block;
+	width: 511px;
+	height: 150px;
+	margin-top: 43px;
+
+}
+
+.photo9 {
+	display: inline-block;
+	width: 830px;
+	height: 400px;
+	margin-top: -392px;
+	margin-left: 515px;
+}
+
+h3 {
+	margin-top: 10px;
+	margin-left: 186px;
+}
+
+.text2 {
+	display: inline-block;
+	width: 254px;
+	height: 100px;
+	text-align: center;
+	margin-left: 121px;
+	font-size: 13px;
+	color: #848789;
+	margin-top: -7px;
+
+}
+
+.photo10{
+	width: 448px;
+	height: 400px;
+}
+
+.photo13 {
+	display: inline-block;
+	margin-left: 209px;
+	margin-bottom: 335px;
+}
+
+h4 {
+	margin-left: 589px;
+	margin-top: -325px;
+}
+
+.text3{
+		display: inline-block;
+	width: 254px;
+	height: 100px;
+	text-align: center;
+	margin-left: 548px;
+	font-size: 13px;
+	color: #848789;
+	margin-top: -7px;
+}
+
+.photo11 {
+	display: inline-block;
+	width: 447px;
+	height:100px ;
+	margin-bottom: -187px;
+	margin-left: -358px;
+}
+
+.photo12 {
+	display: block;
+	width: 446px;
+	height: 400px;
+	margin-top: -232px;
+	margin-left: 900px;
+}
+
+.photo14{
+	margin-left: 619px;
+	padding-top: 100px;
+}
+.intro-subtitle {
+	width: 100%;
+	max-width: 1200px;
+	height: 364px;
+}
+
+h5 {
+	margin-left: 555px;
+}
+
+.text4 {
+	margin-left: 691px;
+	margin-top: -42px;
+	font-size: 13px;
+	color: #848789;
+}
+
+.text5 {
+	font-size: 13px;
+	color: #848789;
+	text-align: center;
+	width: 600px;
+	margin-left: 335px;
+}
+
+
+
+.photo15{
+	width: 100%;
+	max-width: 1348px;
+	height: 400px;
+}
+.intro-suptitle-inner{
+	background-color: black;
+	height: 150px;
+}
+.btn {
+	margin-left: 601px;
+	text-decoration: none;
+	display: inline-block;
+	 border: 1px solid #fff;
+	  color: #fff;
+	  margin-top: 50px;
+	  font-size: 14px;
+	  transition: background 0.1s linear, color 0.1s;
+  
+}
+
+.photo18{
+	 margin-left: 616px;
+	width: 60px;
+	height: 60px;
+	margin-top: 50px;
+}
+
+.text6 {
+	margin-left: 589px;
+	margin-top: 20px;
+	font-size: 13px;
+	color: #848789;
+
+}
+
+#number-field{
+	margin-left: 491px;
+	width: 250px;
+	height: 50px;
+	text-align: center;
+}
+
+.button {
+	 font-size: 1.5em;
+    margin-top: 1em;
+    padding: 0.5em;
+    background: green;
+    color: white;
+    border: none;
+   
+}
+
+.text7 {
+	color: #939698;
+	margin-left: 106px;
+
+}
+
+.footer-info {
+	background-color: #f7f7f7;
+}
+
+.photo19 {
+	margin-left: 577px;
+	margin-top: -65px;
+}
+
+.text8 {
+	color: #a3a5a6;
+	margin-left: 1086px;
+	margin-top: -57px;
+}
+
+h6 {
+	margin-left: 1197px;
+	margin-top: -53px;
+	font-size: 30px;
+	font-weight: 700;
+}
